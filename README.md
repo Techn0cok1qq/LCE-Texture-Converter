@@ -54,7 +54,7 @@ No installation required — just open in a browser.
 
 ### オンライン / Online
 
-**[https://ignseed.github.io/Legacy-Texture-Converter/](https://techn0cok1qq.github.io/LCE-Texture-Converter/)**
+**[https://techn0cok1qq.github.io/LCE-Texture-Converter/](https://techn0cok1qq.github.io/LCE-Texture-Converter/)**
 
 ### ローカル実行 / Run Locally
 
