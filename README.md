@@ -1,6 +1,6 @@
 # Legacy Texture Converter
 
-**[🌐 Open Tool / ツールを開く 🌐](https://ignseed.github.io/Legacy-Texture-Converter/)**
+**[🌐 Open Tool / ツールを開く 🌐](https://techn0cok1qq.github.io/LCE-Texture-Converter/)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Platform: Browser](https://img.shields.io/badge/platform-browser-blue)
@@ -54,7 +54,7 @@ No installation required — just open in a browser.
 
 ### オンライン / Online
 
-**[https://ignseed.github.io/Legacy-Texture-Converter/](https://ignseed.github.io/Legacy-Texture-Converter/)**
+**[https://ignseed.github.io/Legacy-Texture-Converter/](https://techn0cok1qq.github.io/LCE-Texture-Converter/)**
 
 ### ローカル実行 / Run Locally
 
